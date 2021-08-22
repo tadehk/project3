@@ -1,1 +1,4 @@
-Hello, my name is Tadeh Khajatourians and I am working on hw1, while following the videos
+Hello, my name is Tadeh Khajatourians, and I am working on hw1, while following the videos
+
+this file comes before the others
+git is tracking my changes
