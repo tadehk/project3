@@ -1,4 +1,5 @@
-Hello, my name is Tadeh Khajatourians, and I am working on hw1, while following the videos
+<<<<<<< HEAD
 
-this file comes before the others
-git is tracking my changes
+=======
+Hello, our names are "Tadeh Khajatourians" and "Ryan Trinh" and we are working on hw5 together, we starting working on this together on 09/09/2021
+>>>>>>> Ryan_Trinh_Branch
